@@ -1,28 +1,26 @@
 # Quest Submission & Tracking
 
 ## Chapter 1
-- [ ] Quest 1
-- [ ] Quest 2
+- [ ] [Day 1](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter1.0/day1)
+- [ ] [Day 2](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter1.0/day2)
 
 ## Chapter 2
-- [ ] Quest 1
-- [ ] Quest 2
-- [ ] Quest 3
-- [ ] Quest 4
+- [ ] [Day 1](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter2.0/day1)
+- [ ] [Day 2](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter2.0/day2)
+- [ ] [Day 3](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter2.0/day3)
+- [ ] [Day 4](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter2.0/day4)
 
 ## Chapter 3
-- [ ] Quest 1
-- [ ] Quest 2
-- [ ] Quest 3
-- [ ] Quest 4
-- [ ] Quest 4
-- [ ] Quest 5
+- [ ] [Day 1](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter3.0/day1)
+- [ ] [Day 2](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter3.0/day2)
+- [ ] [Day 3](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter3.0/day3)
+- [ ] [Day 4](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter3.0/day4)
+- [ ] [Day 5](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter3.0/day5)
 
 ## Chapter 4
-- [ ] Quest 1
-- [ ] Quest 2
-- [ ] Quest 3
-- [ ] Quest 4
-- [ ] Quest 4
+- [ ] [Day 1](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter4.0/day1)
+- [ ] [Day 2](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter4.0/day2)
+- [ ] [Day 3](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter4.0/day3)
+- [ ] [Day 4](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter4.0/day4)
 
 ## Chapter 5
