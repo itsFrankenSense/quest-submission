@@ -1,6 +1,5 @@
 # Quest Submission & Tracking
-Beginner Cadence Bootcamp - September 2022
-
+<sub>FrankenSense - Beginner Cadence Bootcamp - September 2022</sub>
 
 ## Chapter 1
 - [ ] Day 1 [Learning Blockchain Concepts](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter1.0/day1)
