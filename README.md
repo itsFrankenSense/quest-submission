@@ -29,3 +29,8 @@ Beginner Cadence Bootcamp - September 2022
 - [ ] Day 1 [Pre/Post Conditions & Events](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter5.0/day1)
 - [ ] Day 2 [Contract Interfaces](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter5.0/day2)
 - [ ] Day 3 [Creating an NFT Contract: Implementing the NonFungibleToken Standard (Part 3/3)](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter5.0/day3)
+
+## Chapter 6 (extra credit)
+- [ ] Day 1 [Creating a Testnet Account & Deploying to Testnet](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter6.0/day1)
+- [ ] Day 2 [Interacting With Our Contract on Testnet](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter6.0/day2)
+- [ ] Day 3 [Now What?](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter6.0/day3)
