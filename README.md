@@ -2,8 +2,8 @@
 <sub>FrankenSense - Beginner Cadence Bootcamp - September 2022</sub>
 
 ## Chapter 1
-- [ ] Day 1 [Learning Blockchain Concepts](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter1.0/day1)
-- [ ] Day 2 [The Flow Blockchain & Cadence](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter1.0/day2)
+- [X] Day 1 [Learning Blockchain Concepts](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter1.0/day1)
+- [X] Day 2 [The Flow Blockchain & Cadence](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter1.0/day2)
 
 ## Chapter 2
 - [ ] Day 1 [Our First Smart Contract](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter2.0/day1)
