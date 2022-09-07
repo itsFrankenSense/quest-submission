@@ -6,8 +6,8 @@
 - [X] Day 2 [The Flow Blockchain & Cadence](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter1.0/day2.md)
 
 ## Chapter 2
-- [ ] Day 1 [Our First Smart Contract](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter2.0/day1)
-- [ ] Day 2 [Transactions and Scripts](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter2.0/day2)
+- [x] Day 1 [Our First Smart Contract](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter2.0/day1)
+- [x] Day 2 [Transactions and Scripts](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter2.0/day2)
 - [ ] Day 3 [Arrays, Dictionaries, and Optionals](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter2.0/day3)
 - [ ] Day 4 [Basic Structs](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter2.0/day4)
 
