@@ -14,7 +14,8 @@
 - A variable named myNumber that has type Int (set it to 0 when the contract is deployed)
 - A function named updateMyNumber that takes in a new number named newNumber as a parameter that has type Int and updates myNumber to be newNumber
 
-```pub contract HelloWorld {
+```
+pub contract HelloWorld {
 
     pub var greeting: String
     pub var myNumber: Int
