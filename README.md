@@ -12,10 +12,10 @@
 - [x] Day 4 [Basic Structs](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter2.0/day4.md)
 
 ## Chapter 3
-- [ ] Day 1 [Resources](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter3.0/day1)
-- [ ] Day 2 [Resources in Dictionaries & Arrays](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter3.0/day2)
-- [ ] Day 3 [References](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter3.0/day3)
-- [ ] Day 4 [Resource/Struct Interfaces](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter3.0/day4)
+- [x] Day 1 [Resources](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter3.0/day1.md)
+- [x] Day 2 [Resources in Dictionaries & Arrays](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter3.0/day2.md)
+- [x] Day 3 [References](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter3.0/day3.md)
+- [x] Day 4 [Resource/Struct Interfaces](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter3.0/day4.md)
 - [ ] Day 5 [Access Control](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter3.0/day5)
 
 ## Chapter 4
