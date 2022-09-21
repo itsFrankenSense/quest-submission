@@ -41,6 +41,8 @@ access(all) contract SomeContract {
         //B - READ & WRITE
         //C - READ & WRITE
         //D - READ & WRITE
+        
+        //publicFunc, contractFunc, privateFunc
 
 
 
@@ -65,6 +67,8 @@ access(all) contract SomeContract {
         //B - READ
         //C - READ
         //D - NA
+        
+        //publicFunc, contractFunc
 
         init() {
             self.e = 17
@@ -85,6 +89,8 @@ access(all) contract SomeContract {
         //B - READ
         //C - READ 
         //D - NA
+        
+         //publicFunc, contractFunc
 
     init() {
         self.testStruct = SomeStruct()
@@ -103,3 +109,5 @@ pub fun main() {
         //B - READ
         //C - NA 
         //D - NA
+        
+         //publicFunc 
