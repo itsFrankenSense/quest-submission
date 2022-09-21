@@ -45,7 +45,7 @@ transaction() {
   // moving whatver is the function of .createQuest into the let questSave.
     let questSave <- QuestaCon.createQuest()
 
-  // then we move that into storeage at /storage/MyQuestResource
+  // then we move that into storage at /storage/MyQuestResource
     signer.save(<- questSave, to: /storage/MyQuestResource)
 
   //now we are attempting to access whatever is at the path /storage/MyQuestResource but we are telling the playground we expect there is something in <@QuestaCon.Quest> (the resource we stored)
