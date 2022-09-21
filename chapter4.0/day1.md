@@ -48,7 +48,7 @@ transaction() {
   // then we move that into storeage at /storage/MyQuestResource
     signer.save(<- questSave, to: /storage/MyQuestResource)
 
-  //now we are attempting to whatever is at the path /storage/MyQuestResource but we are telling the playground we expect there is something in <@QuestaCon.Quest> (the resource we stored)
+  //now we are attempting to access whatever is at the path /storage/MyQuestResource but we are telling the playground we expect there is something in <@QuestaCon.Quest> (the resource we stored)
     let questLoad <- signer.load<@QuestaCon.Quest>(from: /storage/MyQuestResource)
     ?? panic("No resource for you")
     log (questLoad.quest)
