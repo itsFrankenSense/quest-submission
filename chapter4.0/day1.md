@@ -4,7 +4,7 @@
 <br> - Contract Code & Account storage (/storage)
 
 **2. What is the difference between the /storage/, /public/, and /private/ paths?**
-<br> - /storage is where everything actually lives. /public and /private are just 'links' to what is in /storage and can help with restriciting who can access what.
+<br> - /storage is where everything actually lives. Whilst things can be stored in /public and /private these locations can help with restriciting who can access what.
 
 **3. What does .save() do? What does .load() do? What does .borrow() do?**
 <br> - .save() saves a resource into account storage
