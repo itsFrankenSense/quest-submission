@@ -57,7 +57,7 @@ init() {
 ```
 
 **3. For each of the functions below (numberOne, numberTwo, numberThree), follow the instructions.**
-<br> 
+<br> - Answers on lines - "//ANSWER..."
 ``` Cadence
 pub contract Test {
 
