@@ -32,4 +32,3 @@
 ## Chapter 6 (extra credit)
 - [x] Day 1 [Creating a Testnet Account & Deploying to Testnet](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter6.0/day1.md)
 - [x] Day 2 [Interacting With Our Contract on Testnet](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter6.0/day2.md)
-- [ ] Day 3 [Now What?](https://github.com/itsFrankenSense/quest-submission/blob/main/chapter6.0/day3.md)
